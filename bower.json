@@ -1,0 +1,26 @@
+{
+  "name": "jquery-wurfl-io",
+  "main": "jquery-wurfl-io.js",
+  "version": "1.0.0",
+  "authors": [
+    "chrism@theanchorlight.com"
+  ],
+  "description": "WURFL-io via bower",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "WURFL"
+  ],
+  "dependencies": {
+    "angular": "1.3.12"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
